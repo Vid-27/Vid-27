@@ -1,3 +1,2 @@
-# Vidhya-27
-My personal repository
-hi hello
+#Hello there
+Vidhya here!
