@@ -1,5 +1,5 @@
 # Hello there :wave: Vidhya Lakshmi here!
-## Budding Tech enthusiast & a self-learner :seedling:
+## Budding Tech Enthusiast & a Self-Learner :seedling:
 
 - :telescope: I'm currently learning **Web development**.
 - :computer: Passionate in **programming**
